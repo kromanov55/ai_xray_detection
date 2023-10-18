@@ -1,2 +1,2 @@
 # ИИ обнаружение пневмонии по флюрографии (CNN)
-## Ссылка: https://rb.gy/yhbyv
+## Ссылка: https://pneumonia-ai.streamlit.app/
